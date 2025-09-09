@@ -26,4 +26,4 @@ You can find various fullstack projects on my GitHub profile. If you're interest
 <br/>
 
 
-##⭐ Thanks for visiting my profile! ⭐
+## ⭐ Thanks for visiting my profile! ⭐
