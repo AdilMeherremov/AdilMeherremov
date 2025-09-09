@@ -13,7 +13,7 @@
 
 # 👨🏻‍💼 About Me:
 
-My name is Adil Maharramov, im a passionate fullstack developer from Azerbaijan. I first started to code in 2022, when i was 13 years old. At that times i loved to make simple computer game in unity. Later i switched from making games to making websites. I love writing code and learning new things.
+My name is Adil Maharramov, im a passionate fullstack developer from Azerbaijan. I first started to code in 2022, when i was 13 years old. At that times i loved to make simple computer games in unity. Later i switched from making games to making websites. I love writing code and learning new things.
 <br/>
 <br/>
 <br/>
