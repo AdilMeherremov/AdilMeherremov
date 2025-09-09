@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello&fontSize=90)
-## My Name is Adil Maharramov
+## My Name is Adil Maharramov, im a fullstack developer
 <br/>
 <br/>
 <br/>
