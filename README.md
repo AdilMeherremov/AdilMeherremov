@@ -20,7 +20,7 @@ My name is Adil Maharramov, im a passionate fullstack developer from Azerbaijan.
 
 
 # 🚀 My Projects
-You can find various fullstack projects on my GitHub profile. If you're interested in web applications or modern designs, you're in the right place!
+You can find various frontend/backend projects on my GitHub profile. If you're interested in web applications or modern designs, you're in the right place!
 <br/>
 <br/>
 <br/>
