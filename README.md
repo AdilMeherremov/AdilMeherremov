@@ -5,7 +5,7 @@
 <br/>
 
 # Technologies i use/used
-[![](https://skillicons.dev/icons?i=vscode,vite,react,py,npm,nodejs,mysql,js,html,git,django,css,tailwind,postgres,postman,linux,arch)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=vscode,vite,react,py,npm,mysql,js,html,git,django,css,tailwind,postgres,postman,linux,arch)](https://skillicons.dev)
 <br/>
 <br/>
 <br/>
@@ -13,7 +13,7 @@
 
 # 👨🏻‍💼 About Me:
 
-My name is Adil Maharramov, im a passionate fullstack developer from Azerbaijan. I first started to code in 2022, when i was 13 years old. At that times i loved to make simple computer games in unity. Later i switched from making games to making websites. I love writing code and learning new things.
+My name is Adil Maharramov, im a passionate fullstack developer from Azerbaijan. I first started to code in 2022, when I was 13 years old. At that times I loved to make simple computer games in unity. Later I switched from making games to making websites. I love writing code and learning new things.
 <br/>
 <br/>
 <br/>
