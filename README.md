@@ -1,29 +1,56 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello&fontSize=90)
-## My Name is Adil Maharramov, im a fullstack developer
-<br/>
-<br/>
-<br/>
+<div align="center">
 
-# Technologies l use
-[![](https://skillicons.dev/icons?i=html,css,tailwind,js,react,py,django,postgres,mysql,git,npm,)](https://skillicons.dev)
-<br/>
-<br/>
-<br/>
+# 👋 Hello, I'm Adil Maharramov
 
+### Fullstack Developer | 2+ Years of Learning & Building
 
-# 👨🏻‍💼 About Me:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<br>
 
-My name is Adil Maharramov, im a passionate fullstack developer from Azerbaijan. I first started to code in 2022, when I was 13 years old. At that times I loved to make simple computer games in unity. Later I switched from making games to making websites. I love writing code and learning new things.
-<br/>
-<br/>
-<br/>
+</div>
 
+## 📖 About Me
 
-# 🚀 My Projects
-You can find various frontend/backend projects on my GitHub profile. If you're interested in web applications or modern designs, you're in the right place!
-<br/>
-<br/>
-<br/>
+I've been developing my skills in front-end development for two years. I develop projects based on modern web technologies and constantly focus on learning new technologies.
+<br>
+<br>
 
+## 🛠️ Tech Stack
 
-## ⭐ Thanks for visiting my profile! ⭐
+- **Frontend:** React, JavaScript, Tailwind CSS, HTML5, CSS3
+- **Backend:** Python, Django
+- **Database:** PostgreSQL, MySQL
+- **Tools:** Git, GitHub, VS Code
+<br>
+<br>
+
+## ⭐ Development Principles
+
+- 📱 Mobile-First Responsive Design
+- 🧹 Clean and Readable Code
+- 📚 Clear Documentation
+- 🌐 Semantic HTML
+- 🔄 DRY Principle
+<br>
+<br>
+
+## 💼 Projects
+
+### 📝 Todo List App
+A responsive React application for task management with REST API integration
+
+### 🌤️ Weather Forecast App  
+A responsive weather forecast React application
+<br>
+<br>
+
+---
+
+<div align="center">
+
+⭐ **Thanks for visiting!** Feel free to explore my repositories!
+
+</div>
