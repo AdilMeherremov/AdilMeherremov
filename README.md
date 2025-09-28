@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-# Technologies i use/used
+# Technologies l use
 [![](https://skillicons.dev/icons?i=html,css,tailwind,js,react,py,django,postgres,mysql,git,npm,)](https://skillicons.dev)
 <br/>
 <br/>
