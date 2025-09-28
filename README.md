@@ -5,7 +5,7 @@
 <br/>
 
 # Technologies i use/used
-[![](https://skillicons.dev/icons?i=vscode,vite,react,py,npm,mysql,js,html,git,django,css,tailwind,postgres,postman,linux,arch)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,py,npm,mysql,js,html,git,django,css,tailwind,postgres)](https://skillicons.dev)
 <br/>
 <br/>
 <br/>
