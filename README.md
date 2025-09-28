@@ -44,6 +44,9 @@ A responsive React application for task management with REST API integration
 
 ### 🌤️ Weather Forecast App  
 A responsive weather forecast React application
+
+### 🌤️ Currency Converter App  
+A responsive react application for converting a currency to another with live exchange rates
 <br>
 <br>
 
