@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Adil Maharramov
 
-### Fullstack Developer | 2+ Years of Learning & Building
+### Frontend Developer | 2+ Years of Learning & Building
 
 [![](https://skillicons.dev/icons?i=react,ts,js,py&theme=dark)]
 <br>
@@ -15,11 +15,9 @@ I've been developing my skills in front-end development for two years. I develop
 <br>
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies l use
 
-- **Frontend:** React, JavaScript, Tailwind CSS, HTML5, CSS3
-- **Backend:** Python, Django
-- **Database:** PostgreSQL, MySQL
+- **Frontend:** React, JavaScript, Typescript, Tailwind CSS, HTML5, CSS3
 - **Tools:** Git, GitHub, VS Code
 <br>
 <br>
