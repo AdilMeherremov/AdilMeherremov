@@ -4,7 +4,7 @@
 
 ### Frontend Developer | 2+ Years of Learning & Building
 
-[![](https://skillicons.dev/icons?i=react,ts,js&theme=dark)]
+[![](https://skillicons.dev/icons?i=react,ts,js,tailwind&theme=dark)]
 <br>
 
 </div>
