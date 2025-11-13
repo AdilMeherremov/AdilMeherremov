@@ -17,7 +17,7 @@ I've been developing my skills in front-end development for two years. I develop
 
 ## 🛠️ Technologies l use
 
-- **Frontend:** React, JavaScript, Typescript, Tailwind CSS, HTML5, CSS3
+- **Frontend:** React, JavaScript, Typescript, Tailwind CSS
 - **Tools:** Git, GitHub, VS Code
 <br>
 <br>
