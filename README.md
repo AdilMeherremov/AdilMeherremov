@@ -11,7 +11,7 @@
 
 ## 📖 About Me
 
-I've been developing my skills in front-end development for two years. I develop projects based on modern web technologies and constantly focus on learning new technologies.
+My name is Adil Maharramov. I've been developing my skills in front-end development for more than two years. I develop projects based on modern web technologies and constantly focus on learning new technologies.
 <br>
 <br>
 
