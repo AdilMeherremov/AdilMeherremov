@@ -35,13 +35,13 @@ My name is Adil Maharramov. I've been developing my skills in front-end developm
 ## 💼 Projects
 
 ### 📝 Todo List App
-A responsive React application for task management with REST API integration
+A fully responsive React application for task management with REST API integration
 
 ### 🌤️ Weather Forecast App  
-A responsive weather forecast React application
+A fully responsive React application for checking weather with REST API integration
 
 ### 💱 Currency Converter App  
-A responsive react application for converting a currency to another with live exchange rates
+A fully responsive React application for converting a currency to another with live exchange rates
 <br>
 <br>
 
