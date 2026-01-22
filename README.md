@@ -34,8 +34,11 @@ My name is Adil Maharramov. I've been developing my skills in front-end developm
 
 ## 💼 Projects
 
-### 📝 Todo List App
-A fully responsive React application for task management with REST API integration
+### 📄 Firebase Authentification App
+A fully responsive React application featuring secure user authentication via Firebase
+
+### 🛒 E-commerce App
+A fully responsive React application featuring product search, detailed product views, and a shopping cart experience via Api integration
 
 ### 🌤️ Weather Forecast App  
 A fully responsive React application for checking weather with REST API integration
