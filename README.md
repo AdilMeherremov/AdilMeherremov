@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Adil Maharramov
 
-### Frontend Developer | 2+ Years of Learning & Building
+### Frontend Developer | 3+ Years of Learning & Building
 
 [![](https://skillicons.dev/icons?i=react,ts,js,tailwind&theme=dark)]
 <br>
