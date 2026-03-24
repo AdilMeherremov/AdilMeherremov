@@ -11,13 +11,16 @@
 
 ## 📖 About Me
 
-My name is Adil Maharramov. I've been developing my skills in front-end development for more than three years. I develop projects based on modern web technologies.
+My name is Adil Maharramov. I've been developing my skills in front-end development for more than three years . I develop projects based on modern web technologies.
+
+My name is Adil Maharramov. I'm a Fullstack Developer with 3+ years of experience in frontend development and 6+ months of experience with backend development. I like coding and solving complex problems since my childhood which led me to become a passionate developer. I'm always excited to learn and experience new things. 
 <br>
 <br>
 
 ## 🛠️ Technologies l use
 
-- **Frontend:** React, JavaScript, Typescript, Tailwind CSS
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Next, Postgres, Typescript
 - **Tools:** Git, GitHub, VS Code
 <br>
 <br>
