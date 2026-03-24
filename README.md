@@ -2,9 +2,9 @@
 
 # 👋 Hello, I'm Adil Maharramov
 
-### Frontend Developer | 3+ Years of Learning & Building
+### Fullstack developer
 
-[![](https://skillicons.dev/icons?i=react,ts,js,tailwind&theme=dark)]
+[![](https://skillicons.dev/icons?i=nextjs,react,ts,postgres,tailwind&theme=dark)]
 <br>
 
 </div>
