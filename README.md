@@ -4,7 +4,7 @@
 
 ### Fullstack developer
 
-[![](https://skillicons.dev/icons?i=nextjs,react,ts,postgres,tailwind&theme=dark)]
+[![](https://skillicons.dev/icons?i=nextjs,react,postgres,tailwind,ts&theme=dark)]
 <br>
 
 </div>
