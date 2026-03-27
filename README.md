@@ -35,14 +35,14 @@ My name is Adil Maharramov. I'm a Fullstack Developer with 3+ years of experienc
 
 ## 💼 Projects
 
-### 📄 Firebase Authentification App
-A fully responsive React application featuring secure user authentication via Firebase
+### 🗒 Blogging platform
+A fully responsive blogging platform featuring post management and user accounts, developed using Next.js and supabase
 
 ### 🛒 E-commerce App
 A fully responsive React application featuring product search, detailed product views, and a shopping cart experience via Api integration
 
-### 🌤️ Weather Forecast App  
-A fully responsive React application for checking weather with REST API integration
+### 📄 Firebase Authentification App
+A fully responsive React application featuring secure user authentication via Firebase
 
 ### 💱 Currency Converter App  
 A fully responsive React application for converting a currency to another with live exchange rates
